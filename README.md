@@ -3,5 +3,5 @@ In this project, I use a comprehensive dataset sourced from a retail bank, consi
 
 The purpose of this project is to:
 
-* Customer Segmentation: Cluster customers into different groups
-* Risk Classification: Build a Logistics Regression model to predict a risk rating score to each loan.
+* Customer Segmentation: Cluster customers into different groups. (K Means Clustering)
+* Risk Classification: Build a model to classify loans. (Logistics Regression)
